@@ -1,0 +1,16 @@
+{
+  "name": "fantasy-football-draft-order",
+  "version": "1.0.0",
+  "description": "Randomized draft order generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Keaton Sentak",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
