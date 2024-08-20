@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "Keaton Sentak",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "license": "ISC"
 }
